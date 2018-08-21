@@ -1,0 +1,22 @@
+.nav-right {
+  float: right;
+}
+
+.nav-left {
+  float: left;
+}
+
+.nav-link {
+  color: white;
+  font-size: 22px;
+  font-family: 'News Cycle', 'Arial Narrow Bold', sans-serif;
+  font-weight: 400;
+}
+
+#name {
+  font-size: 25px;
+}
+
+.navbar-nav > li > a:hover {
+  color: white;
+}

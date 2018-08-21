@@ -1,0 +1,16 @@
+body,
+html {
+  height: 100%;
+}
+
+.container-fluid {
+  font-family: 'News Cycle', 'Arial Narrow Bold', sans-serif;
+}
+
+.header {
+  text-align: center;
+}
+
+p {
+  font-size: 1.25rem;
+}
