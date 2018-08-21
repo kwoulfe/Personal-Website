@@ -17,11 +17,6 @@ const Contact = () => (
           </a>
           <br />
           <br />
-          <a className="contactInfo" href="tel:1-510-712-4017">
-            (510) 712-4017
-          </a>
-          <br />
-          <br />
           <a
             className="contactInfo"
             href="https://www.linkedin.com/in/kevin-woulfe"
