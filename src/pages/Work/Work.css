@@ -50,6 +50,8 @@
 .dropdown-menu.show {
   background-color: transparent;
   border: none;
+  text-align: center;
+  display: contents;
 }
 
 a.dropdown-item:hover {
