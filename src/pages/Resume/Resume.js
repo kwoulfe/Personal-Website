@@ -11,9 +11,12 @@ const Resume = () => (
           bikes in my 20’s, and houses in my 30’s. Now...Web Applications. The
           correlation between all of these is astounding and they only get more
           and more advanced. If I could sum up in a word what I felt this meant
-          about myself, it would be ‘growth.’ After a recent completion of a six
-          month coding program, I can say for sure that I’ve found my next
-          opportunity for growth as a builder; Web Developer.
+          about myself, it would be ‘growth.’ We live in exciting times, and Web
+          Development is my passion. Check out my personal portfolio:
+          kevin-woulfe.herokuapp.com Front End technologies I am proficient in
+          include HTML, CSS, JQuery, Bootstrap, Javascript, and most recently
+          React. Back End technologies include: Express, MongoBD, MySQL, and
+          NodeJS.
         </p>
       </div>
       <br />
