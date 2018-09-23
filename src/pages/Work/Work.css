@@ -37,6 +37,8 @@
     sans-serif;
   font-weight: 700;
   color: white;
+  padding-left: inherit;
+  padding-right: inherit;
 }
 
 .dropdown-item {
