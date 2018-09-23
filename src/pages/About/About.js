@@ -23,8 +23,10 @@ const About = () => (
           and take great joy in creating clean, workable sites with crisp and
           concise code.
           <br />
+          <br />
           When I'm not coding, you'll find me riding my bike, hiking, camping,
           or building/fixing anything I can get my hands on.
+          <br />
           <br />
           My wife and I love to travel. All the lovely greenery photographed on
           this site is from a trip we recently took to Ireland. I can't wait to
