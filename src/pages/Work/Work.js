@@ -22,7 +22,7 @@ const Work = () => (
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  DigitalNomads
+                  Overtimers
                 </button>
                 <div
                   className="dropdown-menu"
@@ -30,7 +30,7 @@ const Work = () => (
                 >
                   <a
                     className="dropdown-item"
-                    href="https://github.com/kwoulfe/DigitalNomads/blob/master/README.md"
+                    href="https://github.com/kwoulfe/joshLippi/blob/master/README.md"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -38,7 +38,7 @@ const Work = () => (
                   </a>
                   <a
                     className="dropdown-item"
-                    href="https://github.com/kwoulfe/DigitalNomads"
+                    href="https://github.com/kwoulfe/joshLippi"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -46,50 +46,7 @@ const Work = () => (
                   </a>
                   <a
                     className="dropdown-item"
-                    href="https://kwoulfe.github.io/DigitalNomads/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Live Site
-                  </a>
-                </div>
-              </div>
-            </Col>
-            <Col size="md-3">
-              <div className="dropdown">
-                <button
-                  className="btn dropdown-toggle"
-                  type="button"
-                  id="dropdownMenuButton"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                >
-                  Gems
-                </button>
-                <div
-                  className="dropdown-menu"
-                  aria-labelledby="dropdownMenuButton"
-                >
-                  <a
-                    className="dropdown-item"
-                    href="https://github.com/Project-2-Node-Express/Gems/blob/master/README.md"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    ReadMe
-                  </a>
-                  <a
-                    className="dropdown-item"
-                    href="https://github.com/Project-2-Node-Express/Gems"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Code
-                  </a>
-                  <a
-                    className="dropdown-item"
-                    href="https://murmuring-bastion-76922.herokuapp.com/gems/all"
+                    href="https://kwoulfe.github.io/joshLippi/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -151,7 +108,7 @@ const Work = () => (
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  Overtimers
+                  Gems
                 </button>
                 <div
                   className="dropdown-menu"
@@ -159,7 +116,7 @@ const Work = () => (
                 >
                   <a
                     className="dropdown-item"
-                    href="https://github.com/kwoulfe/joshLippi/blob/master/README.md"
+                    href="https://github.com/Project-2-Node-Express/Gems/blob/master/README.md"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -167,7 +124,7 @@ const Work = () => (
                   </a>
                   <a
                     className="dropdown-item"
-                    href="https://github.com/kwoulfe/joshLippi"
+                    href="https://github.com/Project-2-Node-Express/Gems"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -175,7 +132,50 @@ const Work = () => (
                   </a>
                   <a
                     className="dropdown-item"
-                    href="https://kwoulfe.github.io/joshLippi/"
+                    href="https://murmuring-bastion-76922.herokuapp.com/gems/all"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Live Site
+                  </a>
+                </div>
+              </div>
+            </Col>
+            <Col size="md-3">
+              <div className="dropdown">
+                <button
+                  className="btn dropdown-toggle"
+                  type="button"
+                  id="dropdownMenuButton"
+                  data-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  DigitalNomads
+                </button>
+                <div
+                  className="dropdown-menu"
+                  aria-labelledby="dropdownMenuButton"
+                >
+                  <a
+                    className="dropdown-item"
+                    href="https://github.com/kwoulfe/DigitalNomads/blob/master/README.md"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    ReadMe
+                  </a>
+                  <a
+                    className="dropdown-item"
+                    href="https://github.com/kwoulfe/DigitalNomads"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Code
+                  </a>
+                  <a
+                    className="dropdown-item"
+                    href="https://kwoulfe.github.io/DigitalNomads/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
