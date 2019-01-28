@@ -151,7 +151,7 @@ const Work = () => (
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  Hangman
+                  Overtimers
                 </button>
                 <div
                   className="dropdown-menu"
@@ -159,7 +159,7 @@ const Work = () => (
                 >
                   <a
                     className="dropdown-item"
-                    href="https://github.com/kwoulfe/Hangman-Game/blob/master/README.md"
+                    href="https://github.com/kwoulfe/joshLippi/blob/master/README.md"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -167,7 +167,7 @@ const Work = () => (
                   </a>
                   <a
                     className="dropdown-item"
-                    href="https://github.com/kwoulfe/Hangman-Game"
+                    href="https://github.com/kwoulfe/joshLippi"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -175,7 +175,7 @@ const Work = () => (
                   </a>
                   <a
                     className="dropdown-item"
-                    href="https://kwoulfe.github.io/Hangman-Game/"
+                    href="https://kwoulfe.github.io/joshLippi/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
