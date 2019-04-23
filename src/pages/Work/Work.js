@@ -46,7 +46,7 @@ const Work = () => (
                   </a>
                   <a
                     className="dropdown-item"
-                    href="https://kwoulfe.github.io/joshLippi/"
+                    href="https://joshlippi.herokuapp.com"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
