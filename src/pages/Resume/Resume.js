@@ -22,7 +22,9 @@ const Resume = () => (
       <h1>TECHNICAL SKILLS</h1>
       <p>- Front End: HTML, CSS, Javascript, JQuery, Bootstrap, React</p>
       <p>- Back End: Node, Express, SQL, MongoDB, API calls</p>
-      <p>- General: DNS Configuration, Web Hosting, and 3rd party Mail Servers
+      <p>
+        - General: DNS Configuration, Web Hosting, and 3rd party Mail Servers
+      </p>
       <br />
       <h1>OTHER SKILLS</h1>
       <p>- Excellent written and verbal communication skills</p>
@@ -46,14 +48,18 @@ const Resume = () => (
       <br />
       <h2>Overtimers</h2>
       <p>
-        - Josh Lippi and The Overtimers are a local Sacramento band. They reached out to me to build a website to promote their online presence. The site will serve as a central location for fans to find information about the band’s discography as well as give them access to reach out to the band through links to their Facebook, Twitter, Instagram, and Bandcamp pages.
+        - Josh Lippi and The Overtimers are a local Sacramento band. They
+        reached out to me to build a website to promote their online presence.
+        The site will serve as a central location for fans to find information
+        about the band’s discography as well as give them access to reach out to
+        the band through links to their Facebook, Twitter, Instagram, and
+        Bandcamp pages.
       </p>
       <p>
-        - Built with HTML, CSS, Bootstrap, Javascript, JQuery, Express, Node and Mailgun.
+        - Built with HTML, CSS, Bootstrap, Javascript, JQuery, Express, Node and
+        Mailgun.
       </p>
-      <p>
-        - https://joshlippi.herokuapp.com/
-      </p>
+      <p>- https://joshlippi.herokuapp.com/</p>
       <h2>DevHub</h2>
       <p>
         - Worked in a group of four and was primarily responsible for API
@@ -109,10 +115,14 @@ const Resume = () => (
       <br />
       <h2>Freelance Web Development and Design 2018-Present</h2>
       <p>
-        - Since graduating from UC Davis Extension’s Coding Bootcamp, I have been honing my development skills. I’ve started a handful of personal projects for myself and family.
+        - Since graduating from UC Davis Extension’s Coding Bootcamp, I have
+        been honing my development skills. I’ve started a handful of personal
+        projects for myself and family.
       </p>
       <p>
-        - I was recently hired by a band called Josh Lippi and the Overtimers to build a website for the band. It’s up and running, but still a work in progress.
+        - I was recently hired by a band called Josh Lippi and the Overtimers to
+        build a website for the band. It’s up and running, but still a work in
+        progress.
       </p>
       <h2>Mike's Bikes Berkeley 2006-2015</h2>
       <p>
