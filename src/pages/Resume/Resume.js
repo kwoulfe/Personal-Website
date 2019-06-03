@@ -12,8 +12,7 @@ const Resume = () => (
           correlation between all of these is astounding and they only get more
           and more advanced. If I could sum up in a word what I felt this meant
           about myself, it would be ‘growth.’ We live in exciting times, and Web
-          Development is my passion. Check out my personal portfolio:
-          kevin-woulfe.herokuapp.com Front End technologies I am proficient in
+          Development is my passion. Front End technologies I am proficient in
           include HTML, CSS, JQuery, Bootstrap, Javascript, and most recently
           React. Back End technologies include: Express, MongoBD, MySQL, and
           NodeJS.
@@ -22,7 +21,8 @@ const Resume = () => (
       <br />
       <h1>TECHNICAL SKILLS</h1>
       <p>- Front End: HTML, CSS, Javascript, JQuery, Bootstrap, React</p>
-      <p>- Back End: Node, Express, SQL, MongoDB, API calls, Sequelize</p>
+      <p>- Back End: Node, Express, SQL, MongoDB, API calls</p>
+      <p>- General: DNS Configuration, Web Hosting, and 3rd party Mail Servers
       <br />
       <h1>OTHER SKILLS</h1>
       <p>- Excellent written and verbal communication skills</p>
@@ -44,6 +44,47 @@ const Resume = () => (
       <br />
       <h1>APPLICATIONS BUILT</h1>
       <br />
+      <h2>Overtimers</h2>
+      <p>
+        - Josh Lippi and The Overtimers are a local Sacramento band. They reached out to me to build a website to promote their online presence. The site will serve as a central location for fans to find information about the band’s discography as well as give them access to reach out to the band through links to their Facebook, Twitter, Instagram, and Bandcamp pages.
+      </p>
+      <p>
+        - Built with HTML, CSS, Bootstrap, Javascript, JQuery, Express, Node and Mailgun.
+      </p>
+      <p>
+        - https://joshlippi.herokuapp.com/
+      </p>
+      <h2>DevHub</h2>
+      <p>
+        - Worked in a group of four and was primarily responsible for API
+        routing, setting up MongoDB, and creating a login/signup function.
+      </p>
+      <p>
+        - DevHub is a project hosting site for aspiring developers. With a
+        crowdfunding feature, these developers can gauge public interest in
+        their app before deciding to spend their life savings on launching their
+        app.{' '}
+      </p>
+      <p>
+        - Built with MERN, HTML, CSS, Bootstrap, PixiJS, Bcrypt, Axios, and Body
+        Parser.
+      </p>
+      <p>- https://gentle-ravine-72255.herokuapp.com</p>
+      <h2>Gems Sacramento</h2>
+      <p>
+        - Worked in a group of four and was primarily responsible for project
+        proposal, Bootstrap/CSS, datasets, and project presentation.
+      </p>
+      <p>
+        - Gems Sacramento is an App where users can look up fun, hip, and most
+        importantly, FREE, things to do in their city. Once logged in, users can
+        submit new cool places to the database to share with their community.
+      </p>
+      <p>
+        - Built with HTML, CSS, Bootstrap, Node, Express, MySql, Passport, and
+        Handlebars.
+      </p>
+      <p>- https://murmuring-bastion-76922.herokuapp.com/gems/all</p>
       <h2>Digital Nomads</h2>
       <p>
         - Worked in a group of four and was primarily responsible for using the
@@ -63,37 +104,6 @@ const Resume = () => (
         database.
       </p>
       <p>- https://kwoulfe.github.io/DigitalNomads</p>
-      <h2>Gems Sacramento</h2>
-      <p>
-        - Worked in a group of four and was primarily responsible for project
-        proposal, Bootstrap/CSS, datasets, and project presentation.
-      </p>
-      <p>
-        - Gems Sacramento is an App where users can look up fun, hip, and most
-        importantly, FREE, things to do in their city. Once logged in, users can
-        submit new cool places to the database to share with their community.
-      </p>
-      <p>
-        - Built with HTML, CSS, Bootstrap, Node, Express, MySql, Passport, and
-        Handlebars.
-      </p>
-      <p>- https://murmuring-bastion-76922.herokuapp.com/gems/all</p>
-      <h2>DevHub</h2>
-      <p>
-        - Worked in a group of four and was primarily responsible for API
-        routing, setting up MongoDB, and creating a login/signup function.
-      </p>
-      <p>
-        - DevHub is a project hosting site for aspiring developers. With a
-        crowdfunding feature, these developers can gauge public interest in
-        their app before deciding to spend their life savings on launching their
-        app.{' '}
-      </p>
-      <p>
-        - Built with MERN, HTML, CSS, Bootstrap, PixiJS, Bcrypt, Axios, and Body
-        Parser.
-      </p>
-      <p>- https://gentle-ravine-72255.herokuapp.com</p>
       <br />
       <h1>WORK EXPERIENCE</h1>
       <br />
