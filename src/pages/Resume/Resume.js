@@ -147,15 +147,16 @@ const Resume = () => (
       <br />
       <h1>OTHER</h1>
       <p>
-        - June 2015 through December 2015 were spent traveling Europe and Asia.
-        One of the best things I’ve ever done.
+        - World Traveler • June 2015 - December 2015 were spent traveling Europe
+        and Asia. One of the best things I’ve ever done.
       </p>
       <p>
-        - February 2016 my wife and I bought a 90 year old duplex in Sacramento
-        and have been renovating it ourselves ever since (taking down walls,
-        running new electrical, gutting both kitchens and bathrooms, laying new
-        flooring, you name it!). Certainly one of the most challenging and
-        rewarding things I’ve taken on.
+        - General Contractor • February 2016 - January 2019 My wife and I bought
+        a 93 year old duplex in Sacramento which we renovated from the ground up
+        (taking down walls, drywall, all new plumbing, running new electrical,
+        gutting both kitchens and bathrooms, laying new flooring, landscaping,
+        concrete, you name it!). Certainly one of the most challenging and
+        rewarding things I’ve ever done.
       </p>
     </Container>
   </div>
