@@ -107,6 +107,13 @@ const Resume = () => (
       <br />
       <h1>WORK EXPERIENCE</h1>
       <br />
+      <h2>Freelance Web Development and Design 2018-Present</h2>
+      <p>
+        - Since graduating from UC Davis Extension’s Coding Bootcamp, I have been honing my development skills. I’ve started a handful of personal projects for myself and family.
+      </p>
+      <p>
+        - I was recently hired by a band called Josh Lippi and the Overtimers to build a website for the band. It’s up and running, but still a work in progress.
+      </p>
       <h2>Mike's Bikes Berkeley 2006-2015</h2>
       <p>
         - From intern to mechanic to manager, I worked in the service department
