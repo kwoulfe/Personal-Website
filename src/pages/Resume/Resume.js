@@ -59,7 +59,9 @@ const Resume = () => (
         - Built with HTML, CSS, Bootstrap, Javascript, JQuery, Express, Node and
         Mailgun.
       </p>
-      <p>- https://joshlippi.herokuapp.com/</p>
+      <p>
+        - <a href="https://joshlippi.com">joshlippi.com</a>
+      </p>
       <h2>DevHub</h2>
       <p>
         - Worked in a group of four and was primarily responsible for API
