@@ -14,14 +14,15 @@ const About = () => (
           Full Stack Web Developer • Sacramento, California
           <br />
           <br />
-          About a year ago I decided to change careers from Bicycle Retail to
+          Currently working as a <i>Front End Web Production Specialist</i> for the California Chamber of Commerce.
+          {/* About a year ago I decided to change careers from Bicycle Retail to
           Web Development. It's been one of the most rewarding decisions of my
           life. I once heard someone describe coding as "fireworks for your
           brain," and I couldn't agree more. I'm certainly not afraid of a
           challenge and for that reason alone, I know I'm in the right field. I
           love the problem solving and attention to detail that Web Development
           requires and take great joy in creating clean, workable sites with
-          crisp and concise code.
+          crisp and concise code. */}
           <br />
           <br />
           When I'm not coding, you'll find me riding my bike, hiking, camping,
