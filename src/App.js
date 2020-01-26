@@ -5,6 +5,7 @@ import About from './pages/About';
 import Work from './pages/Work';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
+import Joey from './pages/Joey';
 import NoMatch from './pages/NoMatch';
 
 const App = () => (
@@ -16,6 +17,7 @@ const App = () => (
         <Route exact path="/work" component={Work} />
         <Route exact path="/contact" component={Contact} />
         <Route exact path="/resume" component={Resume} />
+        <Route exact path="/josephine" component={Joey} />
         <Route component={NoMatch} />
       </Switch>
     </div>
