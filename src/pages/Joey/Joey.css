@@ -1,4 +1,4 @@
-.backgroundJoey {
+/* .backgroundJoey {
     background-image: url(../../assets/images/joey2.jpg);
     background-repeat: no-repeat;
     background-size: contain;
@@ -13,4 +13,34 @@
     max-height: 100%;
     margin: auto;
     overflow: auto;
+  } */
+
+  body, html {
+    background-color: black;
+  }
+
+  .container {
+    /* max-width: 25em; */
+    margin: 2em auto;
+  }
+
+  .row {
+    margin-bottom: 2em; 
+  }
+
+  img {
+    max-width: 5em;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .script {
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    margin-bottom: 1em;
+  }
+
+  .Activated_overlay__3ey1P {
+    background-color: black !important;
   }
