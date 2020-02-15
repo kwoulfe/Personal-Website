@@ -20,6 +20,15 @@ import joey18 from '../../assets/images/joey18.jpeg';
 import joey19 from '../../assets/images/joey19.jpeg';
 import joey20 from '../../assets/images/joey20.JPG';
 import joey21 from '../../assets/images/joey21.jpg';
+import joey22 from '../../assets/images/joey22.jpg';
+import joey23 from '../../assets/images/joey23.jpg';
+import joey24 from '../../assets/images/joey24';
+import joey25 from '../../assets/images/joey25';
+import joey26 from '../../assets/images/joey26';
+import joey27 from '../../assets/images/joey27';
+
+
+
 // import Jumbotron from '../../components/Jumbotron';
 // import Nav from '../../components/Nav';
 import { Col, Row } from '../../components/Grid';
@@ -218,6 +227,64 @@ const Joey = () => (
                         className="img-fluid"
                         alt="Joey Face"
                         src={joey21}
+                    />
+                </Zoom>
+            </Col>
+        </Row>
+        <Row>
+            <Col size="3">
+                <Zoom>
+                    <img
+                        className="img-fluid"
+                        alt="Joey Face"
+                        src={joey22}
+                    />
+                </Zoom>
+            </Col>
+            <Col size="3">
+                <Zoom>
+                    <img
+                        className="img-fluid"
+                        alt="Joey Face"
+                        src={joey23}
+                    />
+                </Zoom>
+            </Col>
+            <Col size="3">
+                <Zoom>
+                    <img
+                        className="img-fluid"
+                        alt="Joey Face"
+                        src={joey24}
+                    />
+                </Zoom>
+            </Col>
+            <Col size="3">
+                <Zoom>
+                    <img
+                        className="img-fluid"
+                        alt="Joey Face"
+                        src={joey25}
+                    />
+                </Zoom>
+            </Col>
+        </Row>
+        <Row>
+            <Col size="3">
+                <Zoom>
+                    <img
+                        className="img-fluid"
+                        alt="Joey Face"
+                        src={joey26}
+                    />
+                </Zoom>
+            </Col>
+            <Col size="3">
+                <Zoom>
+                    <img
+                        className="img-fluid"
+                        alt="Joey Face"
+                        src={joey27}
                     />
                 </Zoom>
             </Col>
