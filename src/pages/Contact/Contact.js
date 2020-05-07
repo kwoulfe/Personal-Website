@@ -12,8 +12,8 @@ const Contact = () => (
         <h1 className="details">
           <br />
           <br />
-          <a className="contactInfo" href="mailto:kevinpwoulfe@gmail.com">
-            kevinpwoulfe@gmail.com
+          <a className="contactInfo" href="mailto:info@kevinwoulfe.com">
+            info@kevinwoulfe.com
           </a>
           <br />
           <br />
